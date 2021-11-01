@@ -11,11 +11,9 @@ return(
             <button type="submit">Veja mais</button>
         </div>
 
-
         <img src="https://img.elo7.com.br/product/zoom/2AC1187/placa-decorativa-quadro-anime-rick-and-morty-h347-filme.jpg"
         alt="rick-morty-img"/>
 
-        
     </div>
 
 );
