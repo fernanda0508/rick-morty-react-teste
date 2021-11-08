@@ -41,5 +41,4 @@ function Personagens() {
         </div>
     );
 }
-
 export default Personagens;
